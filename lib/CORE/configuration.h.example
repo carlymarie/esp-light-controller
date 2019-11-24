@@ -1,0 +1,16 @@
+#ifndef _CONFIGURATION_H_
+#define _CONFIGURATION_H_
+
+// Access Point Settings
+#define AP_SSID "Lighting-Dashboard" // Spaces and underscores prohibited
+#define AP_PASS "letmein1"           // Must be 8 characters long
+#define AP_CHANNEL 1                 // Supports channels 1 - 11
+#define AP_HIDDEN false              // Hides SSID
+#define AP_MAX_CONNECTIONS 4         // Allows a maximum of 4 devices to be connected at the same time
+
+// Web Server Settings
+#define HTTP_PORT 80
+
+// Number of LED's
+#define LED_COUNT 16
+#endif // _CONFIGURATION_H_

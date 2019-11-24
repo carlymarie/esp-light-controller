@@ -1,0 +1,122 @@
+[
+    {
+        "gpio": 1,
+        "state": 1
+    },
+    {
+        "gpio": 2,
+        "state": 0
+    },
+    {
+        "gpio": 3,
+        "state": 0
+    },
+    {
+        "gpio": 4,
+        "state": 0
+    },
+    {
+        "gpio": 5,
+        "state": 0
+    },
+    {
+        "gpio": 6,
+        "state": 0
+    },
+    {
+        "gpio": 7,
+        "state": 0
+    },
+    {
+        "gpio": 8,
+        "state": 1
+    },
+    {
+        "gpio": 9,
+        "state": 1
+    },
+    {
+        "gpio": 10,
+        "state": 0
+    },
+    {
+        "gpio": 11,
+        "state": 0
+    },
+    {
+        "gpio": 12,
+        "state": 1
+    },
+    {
+        "gpio": 13,
+        "state": 0
+    },
+    {
+        "gpio": 14,
+        "state": 0
+    },
+    {
+        "gpio": 15,
+        "state": 0
+    },
+    {
+        "gpio": 16,
+        "state": 1
+    },
+    {
+        "gpio": 17,
+        "state": 0
+    },
+    {
+        "gpio": 18,
+        "state": 0
+    },
+    {
+        "gpio": 19,
+        "state": 0
+    },
+    {
+        "gpio": 20,
+        "state": 0
+    },
+    {
+        "gpio": 21,
+        "state": 0
+    },
+    {
+        "gpio": 22,
+        "state": 1
+    },
+    {
+        "gpio": 23,
+        "state": 0
+    },
+    {
+        "gpio": 24,
+        "state": 0
+    },
+    {
+        "gpio": 25,
+        "state": 0
+    },
+    {
+        "gpio": 26,
+        "state": 0
+    },
+    {
+        "gpio": 27,
+        "state": 0
+    },
+    {
+        "gpio": 28,
+        "state": 0
+    },
+    {
+        "gpio": 29,
+        "state": 0
+    },
+    {
+        "gpio": 30,
+        "state": 1
+    }
+]

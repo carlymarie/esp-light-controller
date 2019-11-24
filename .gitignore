@@ -1,0 +1,4 @@
+.vscode
+lib/CORE/configuration.h
+platformio.ini
+.pio

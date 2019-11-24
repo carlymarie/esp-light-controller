@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/site.css">
+</head>
+
+<body>
+    <div id="app">
+        <form method="POST" action="/datetime" id="sync-clock">
+            <button>Sync Clock</button>
+        </form>
+        <form method="POST" action="/schedule" id="scheduling">
+            <div>
+                <label>On Time</label>
+                <input type="time" id="ontime" required>
+            </div>
+            <div>
+                <label>Off Time</label>
+                <input type="time" id="offtime" required>
+            </div>
+            <button id="schedule-submit">Set Schedule</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Light</th>
+                    <th>State</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="switches">
+            </tbody>
+        </table>
+    </div>
+    <script>
+    </script>
+    <script src="/js/init.js"></script>
+</body>
+
+</html>

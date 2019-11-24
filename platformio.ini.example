@@ -1,0 +1,21 @@
+; [env:esp32]
+; platform = espressif32
+; framework = arduino
+; board = esp32dev
+; lib_deps =
+;     Wire
+;     ESP Async WebServer
+;     AsyncTCP
+;     ArduinoJson
+;     Time
+
+[env:nodemcuv2]
+platform = espressif8266
+board = nodemcuv2
+framework = arduino
+lib_deps =
+    Wire
+    ArduinoJson
+    Time
+    ESPAsyncTCP
+    ESP Async WebServer

@@ -1,0 +1,79 @@
+html,
+body {
+  font: 1em Arial;
+  margin: 0;
+}
+#app {
+  text-align: center;
+  margin:50px auto;
+  width: 480px;
+}
+form {
+  text-align: center;
+}
+form button {
+  border: 0;
+  font-size: 1.5em;
+  background: #06f;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: block;
+  margin: 0 auto;
+}
+form div {
+  margin: 10px 0;
+}
+form input,
+form label {
+  border: 0;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.5em;
+}
+td button {
+  border: 3px solid #000;
+  border-radius: 50px;
+  padding: 5px 20px;
+  font-size: 1.5em;
+  background: #fff;
+  outline: none;
+  cursor: pointer;
+}
+td button:hover {
+  background: #06f;
+  color: #fff;
+  border-color: #06f;
+}
+.active {
+  color: #0f0;
+}
+.inactive {
+  color: #eee;
+}
+table {
+  margin-top: 20px;
+  width: 100%;
+  table-layout: fixed;
+}
+td,
+th {
+  text-align: left;
+  padding: 5px;
+}
+th {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+td:nth-child(2) {
+  font-weight: bold;
+  font-size: 2em;
+}
+td:nth-child(2),
+th:nth-child(2) {
+  text-align: center;
+}
+td:nth-child(3),
+th:nth-child(3) {
+  text-align: right;
+}
